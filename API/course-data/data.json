@@ -1,0 +1,880 @@
+[
+  {
+    "name": "Uniswap Exchange Clone",
+    "title": "DeFi Exchange | Build Your Own Uniswap Exchange Clone | Crypto Exchange Platform Project, 2023",
+    "summary": "Building a decentralized exchange like Uniswap can be a complex and technical process. Here are some high-level steps you might follow to build your own platform:",
+    "description": "Choose a blockchain platform: Decentralized exchanges like Uniswap are built on top of blockchain technology. You'll need to choose a blockchain platform, such as Ethereum, to build your exchange on.\nSet up a development environment: Next, you'll need to set up a development environment where you can build and test your exchange. This will typically involve installing and configuring various tools, such as a local blockchain node, a code editor, and a testing framework.\nFamiliarize yourself with the Uniswap protocol and its mechanics. Understand how the exchange functions and the different components that make it work.\nSet up a development environment for smart contract development. This includes a local blockchain, such as Ganache, and a development framework, like Truffle.\nWrite the smart contracts for your exchange using Solidity, the programming language used for Ethereum smart contracts. The contracts you'll need to write include: a factory contract, which creates new exchange contracts; an exchange contract, which handles the trading of tokens; and a liquidity pool contract, which holds the tokens being traded.\nTest your contracts using a testing framework, such as Mocha, to ensure they work as expected.\nDeploy your contracts to the Ethereum mainnet or a testnet using a tool like Truffle's migrations or Remix.\nBuild a user interface for your exchange using a web3 library, such as web3.js, and a front-end framework, like React. The interface should allow users to interact with the smart contracts and make trades.\nFinally, properly secure your exchange, by implementing best practices for smart contract security and user authentication.\nIt is very important to note that Uniswap is a decentralized exchange, which means it has no central point of control, also it is built on Ethereum blockchain. Building a clone of it will be a big task, which will require a significant amount of time, experience and resources.",
+    "duration": "11:39:09",
+    "difficulty": "Advance",
+    "starterFile": "https://github.com/daulathussain/uniswap-defi-complete-code",
+    "finalFile": "https://github.com/daulathussain/uniswap-defi-complete-code",
+    "videoId": "ZNDZuT9hmNo",
+    "creator": [
+      {
+        "name": "Daulat Hussain",
+        "gitHub": "https://github.com/daulathussain",
+        "youTube": "https://www.youtube.com/@daulathussain",
+        "profession": "Full Stack Blockchain Dveloper",
+        "description": "Not an Expert, Not Hold an IT Degree, Self-taught Full stack developer, Building WEB 3.0 App to Learn"
+      }
+    ],
+    "links": [
+      {
+        "name": "GitHub",
+        "link": "https://github.com/daulathussain"
+      },
+      {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/@daulathussain"
+      },
+      {
+        "name": "Pro Course",
+        "link": "https://github.com/daulathussain"
+      }
+    ],
+    "chapter": [
+      {
+        "chapter": "01",
+        "topic": "Basic",
+        "percentage": "25",
+        "section": [
+          {
+            "title": "Introduction",
+            "duration": "00:00:00",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "00:00:00"
+          },
+          {
+            "title": "Overview",
+            "duration": "00:02:45",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "00:02:45"
+          },
+          {
+            "title": "NavBar",
+            "duration": "00:15:37",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "00:15:375"
+          },
+          {
+            "title": "Model",
+            "duration": "00:35:12",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "00:35:12"
+          },
+          {
+            "title": "TokenList",
+            "duration": "00:44:17",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "00:44:17"
+          },
+          {
+            "title": "Swap Model",
+            "duration": "00:55:18",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "00:55:18"
+          },
+          {
+            "title": "Funds Model",
+            "duration": "01:08:36",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "01:08:36"
+          },
+          {
+            "title": "Search Token",
+            "duration": "01:28:35",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "01:28:35"
+          },
+          {
+            "title": "Swap Context SetUp",
+            "duration": "01:46:29",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "01:46:29"
+          },
+          {
+            "title": "Swap Exact Input",
+            "duration": "01:51:14",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "01:51:14"
+          },
+          {
+            "title": "Swap Exact OutPut",
+            "duration": "02:04:55",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "02:04:55"
+          },
+          {
+            "title": "IEWTH ERC20",
+            "duration": "02:09:31",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "02:09:31"
+          },
+          {
+            "title": "Testing Smart Contract",
+            "duration": "02:13:35",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "02:13:35"
+          },
+          {
+            "title": "Single Swap Test 2",
+            "duration": "02:28:24",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "02:28:24"
+          },
+          {
+            "title": "Uniswap V3 MultiHop",
+            "duration": "02:36:01",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "02:36:01"
+          },
+          {
+            "title": " MultiHop Test",
+            "duration": "02:45:05",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "02:45:05"
+          },
+          {
+            "title": "ERC20 Token Create",
+            "duration": "02:51:22",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "02:51:22"
+          },
+          {
+            "title": "Deploy Multi Contract",
+            "duration": "02:55:12",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "02:55:12"
+          }
+        ]
+      },
+      {
+        "chapter": "02",
+        "topic": "Beginner",
+        "percentage": "50",
+        "section": [
+          {
+            "title": "API Features",
+            "duration": "03:03:40",
+            "link": "https://github.com/daulathussain",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "03:03:40"
+          },
+          {
+            "title": "Data Anylitics",
+            "duration": "03:14:27",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "03:14:27"
+          },
+          {
+            "title": "Context Set-Up",
+            "duration": "03:19:54",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "03:19:54"
+          },
+          {
+            "title": "Fetch Dat",
+            "duration": "03:23:45",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "03:23:45"
+          },
+          {
+            "title": "Display Dat",
+            "duration": "03:45:45",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "03:45:45"
+          },
+          {
+            "title": "Live Single Swap",
+            "duration": "03:58:20",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "03:58:20"
+          },
+          {
+            "title": "Liqudity V3",
+            "duration": "04:15:16",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "04:15:16"
+          },
+          {
+            "title": "Liqudity Pool Testing",
+            "duration": "04:42:25",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "04:42:25"
+          },
+          {
+            "title": "Token List Page",
+            "duration": "04:59:14",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "04:59:14"
+          },
+          {
+            "title": "Poll Page",
+            "duration": "05:30:00",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "05:30:00"
+          },
+          {
+            "title": "Uniswap V3 SDK",
+            "duration": "06:15:46",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "06:15:46"
+          },
+          {
+            "title": "Get Price Function",
+            "duration": "06:28:14",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "06:28:14"
+          },
+          {
+            "title": "Fetch Price Function",
+            "duration": "06:51:18",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "06:51:18"
+          },
+          {
+            "title": "Swap Update Price",
+            "duration": "06:59:52",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "06:59:52"
+          }
+        ]
+      },
+      {
+        "chapter": "03",
+        "topic": "Advancen",
+        "percentage": "100",
+        "section": [
+          {
+            "title": "Calling Function",
+            "duration": "07:08:33",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "07:08:33"
+          },
+          {
+            "title": "NPM Uninstall",
+            "duration": "07:36:44",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "07:36:44"
+          },
+          {
+            "title": "Deploy Uniswap",
+            "duration": "07:50:35",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "07:50:35"
+          },
+          {
+            "title": "Deploy Token Locally",
+            "duration": "08:10:10",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "08:10:10"
+          },
+          {
+            "title": "Deploy Pool Script",
+            "duration": "08:17:44",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "08:17:44"
+          },
+          {
+            "title": "Add Liqudity Script",
+            "duration": "08:32:15",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "08:32:15"
+          },
+          {
+            "title": "Check Liqudity Script",
+            "duration": "08:49:26",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "08:49:26"
+          },
+          {
+            "title": "Connecting Uniswap",
+            "duration": "08:57:39",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "08:57:39"
+          },
+          {
+            "title": "Swap Context Function",
+            "duration": "09:37:42",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "09:37:42"
+          },
+          {
+            "title": "Live Uniswap",
+            "duration": "09:51:00",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "09:51:00"
+          },
+          {
+            "title": "Final",
+            "duration": "10:55:30",
+            "link": "https://www.youtube.com/watch?v=ZNDZuT9hmNo",
+            "videoId": "ZNDZuT9hmNo",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "10:55:30"
+          }
+        ]
+      }
+    ],
+    "ratingsQuantity": 37,
+    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "startDates": ["2021-04-25T04:30:00.000Z"],
+    "maxGroupSize": 25,
+    "ratingsAverage": 4,
+    "priceDiscount": 0,
+    "imageCover": "1.jpg",
+    "price": 100
+  },
+  {
+    "name": "NFT Marketplace Dapp",
+    "title": "Build Your First Full Stack NFT Marketplace On Ethereum With React Js | Include 12 Pages | 19 Hours",
+    "summary": "Create your first NFT Marketplaceon Ethereum. This is one of the best web3.0 blockchain projects you can include in your portfolio (Full stack NFTMarketplace on Ethereum). Deploy this NFT marketplace on any blockchain like polygon and Ethereum, everything is completely explained in the NFTMarketplace project. ",
+    "description": "Building a decentralized NFT marketplace dApp on Ethereum involves several steps:\n 1. Design the smart contract for the marketplace. This contract should include the logic for creating and managing the NFTs, handling the buying and selling of NFTs, and handling the transfer of ownership. \n 2. Test the smart contract using a tool like Truffle or Remix. \n 3. Deploy the contract to the Ethereum network using a tool like Truffle or a web3 provider. \n 4. Build a user interface for the dApp that allows users to interact with the contract. This can be done using a framework like React or Angular.\n 5. The user interface should include features such as creating and listing NFTs for sale, browsing and purchasing NFTs, and managing the ownership of NFTs. \n 6. Connect the user interface to the deployed contract using a web3 library such as Web3.js.\n 7. Test the dApp and deploy it to a web server or a decentralized storage platform like IPFS.\n It's worth noting that building a decentralized NFT marketplace dApp requires a solid understanding of smart contract programming, web3 and front-end development. If you are not familiar with these technologies, it might be helpful to take some online courses or tutorials to get up to speed.\n You may also want to consider using existing NFT standard interfaces such as ERC-721 or ERC-1155, which are well tested and widely adopted in the community, to save development time and increase compatibility.\n Another important aspect is the cost of gas, be mindful of that when you design your smart contract and test it on a testnet before deploying it to the mainnet.",
+    "duration": "19:00:00",
+    "difficulty": "Advance",
+    "starterFile": "https://github.com/daulathussain/final-NFT-Marketplace-code",
+    "finalFile": "https://github.com/daulathussain/final-NFT-Marketplace-code",
+    "videoId": "S3jJtGYI18E",
+    "creator": [
+      {
+        "name": "Daulat Hussain",
+        "gitHub": "https://github.com/daulathussain",
+        "youTube": "https://www.youtube.com/@daulathussain",
+        "profession": "Full Stack Blockchain Dveloper",
+        "description": "Not an Expert, Not Hold an IT Degree, Self-taught Full stack developer, Building WEB 3.0 App to Learn"
+      }
+    ],
+    "links": [
+      {
+        "name": "Starter File",
+        "link": "https://github.com/daulathussain/final-NFT-Marketplace-code"
+      },
+      {
+        "name": "Final Code",
+        "link": "https://github.com/daulathussain/final-NFT-Marketplace-code"
+      },
+      {
+        "name": "GitHub",
+        "link": "https://github.com/daulathussain"
+      },
+      {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/@daulathussain"
+      },
+      {
+        "name": "Pro Course",
+        "link": "https://github.com/daulathussain"
+      }
+    ],
+    "chapter": [
+      {
+        "chapter": "01",
+        "topic": "Basic",
+        "percentage": "25",
+        "section": [
+          {
+            "title": "Introduction",
+            "duration": "00:00:00",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "00:00:00"
+          },
+          {
+            "title": "Solidity Contract Folder SetUp    ",
+            "duration": " 00:08:47",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 00:08:47"
+          },
+          {
+            "title": "NFT Marketplace Template  set-up      ",
+            "duration": " 01:08:42",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 01:08:42"
+          },
+          {
+            "title": "NavBar Component     ",
+            "duration": "01:17:06",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "01:17:06"
+          },
+          {
+            "title": "NavBar Component      ",
+            "duration": "  01:17:06",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "  01:17:06"
+          },
+          {
+            "title": "Footer Component         ",
+            "duration": "03:22:17",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "03:22:17"
+          },
+          {
+            "title": "Hero Component            ",
+            "duration": "03:41:00",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "03:41:00"
+          },
+          {
+            "title": "Service Component    ",
+            "duration": "03:48:29",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "03:48:29"
+          },
+          {
+            "title": "Big Slider Component             ",
+            "duration": "03:56:51",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "03:56:51"
+          },
+          {
+            "title": "Subscribe Component            ",
+            "duration": " 04:34:57",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 04:34:57"
+          }
+        ]
+      },
+      {
+        "chapter": "02",
+        "topic": "Beginner",
+        "percentage": "50",
+        "section": [
+          {
+            "title": "Title Component     ",
+            "duration": "04:47:05",
+            "link": "https://github.com/daulathussain",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "04:47:05"
+          },
+          {
+            "title": "Category Component     ",
+            "duration": " 04:53:20",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "01:00:52"
+          },
+          {
+            "title": "Filter Component      ",
+            "duration": "  05:04:09",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "  05:04:09"
+          },
+          {
+            "title": "NFT Card Component     ",
+            "duration": " 05:29:13",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 05:29:13"
+          },
+          {
+            "title": "Collection Component       ",
+            "duration": "05:57:15",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "05:57:15"
+          },
+          {
+            "title": "Follower Component             ",
+            "duration": " 06:26:15",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 06:26:15"
+          },
+          {
+            "title": "Audio Card Component                   ",
+            "duration": "   07:05:00",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "   07:05:00"
+          },
+          {
+            "title": "Slider Component                ",
+            "duration": "   07:55:00",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "   07:55:00"
+          },
+          {
+            "title": "Brand Component                ",
+            "duration": " 08:21:00",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 08:21:00"
+          },
+          {
+            "title": "Video Component               ",
+            "duration": " 08:28:00",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 08:28:00"
+          }
+        ]
+      },
+      {
+        "chapter": "03",
+        "topic": "Advancen",
+        "percentage": "100",
+        "section": [
+          {
+            "title": "Collection Page    ",
+            "duration": " 08:57:29",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 08:57:29"
+          },
+          {
+            "title": "Author Page     ",
+            "duration": " 09:38:23",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 09:38:23"
+          },
+          {
+            "title": "Search Page         ",
+            "duration": "10:58:48",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "10:58:48"
+          },
+          {
+            "title": "NFT Details Page        ",
+            "duration": "11:11:58",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "11:11:58"
+          },
+          {
+            "title": "Account Page             ",
+            "duration": "12:20:53",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": "12:20:53"
+          },
+          {
+            "title": "NFT Upload Page        ",
+            "duration": " 12:46:05 ",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 12:46:05  "
+          },
+          {
+            "title": "Connect Wallet Page             ",
+            "duration": " 13:39:06 ",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 13:39:06  "
+          },
+          {
+            "title": "Contact Us Page         ",
+            "duration": " 13:51:05",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 13:51:05 "
+          },
+          {
+            "title": "About Us Page           ",
+            "duration": " 14:01:58 ",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 14:01:58  "
+          },
+          {
+            "title": "Price Page         ",
+            "duration": " 14:17:55 ",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 14:17:55  "
+          },
+          {
+            "title": "Connecting Smart Contract With FrontEnd           ",
+            "duration": " 15:32:11   ",
+            "link": "https://www.youtube.com/watch?v=S3jJtGYI18E",
+            "videoId": "S3jJtGYI18E",
+            "free": true,
+            "new": false,
+            "complete": "true",
+            "timeStamp": " 15:32:11    "
+          }
+        ]
+      }
+    ],
+    "ratingsQuantity": 37,
+    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "startDates": ["2022-07-25T04:30:00.000Z"],
+    "maxGroupSize": 25,
+    "ratingsAverage": 4,
+
+    "imageCover": "13.jpg",
+    "price": 1300
+  }
+]
